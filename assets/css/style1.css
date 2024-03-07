@@ -1,0 +1,77 @@
+.nav{
+    background-color: transparent !important;
+    font-family: "Raleway", sans-serif;
+}   
+
+
+body{
+    background-color: black;
+    color: aliceblue;
+    font-family: "Raleway", sans-serif;
+    text-align: justify;
+}
+
+nav.abajo{
+    background-color: #16a2b7;
+    
+}
+
+.icon1 {
+    text-align: center;
+    color: white;
+    background-color: #328998;
+    margin-bottom: 10px;}
+
+.icon2 {
+        text-align: center;
+        color: white;
+        background-color: #328998;
+        margin-top: 10px;
+        margin-bottom: 50px;
+    }
+
+.card{
+        background-color: transparent!important;
+        color: aliceblue;
+    }
+
+h2{
+        color: aliceblue;
+        text-align: center;
+        padding: 30px;
+    }
+
+hr{
+        color: aliceblue;
+        }
+
+.pie{
+            background-color: #16a2b7;
+            
+            color: aliceblue;
+            padding: 10px;
+            justify-content:left;
+            }
+
+.fa{
+                color: aliceblue;
+                size: 50px;
+                width: 20px;
+                font-size: 20px;
+                text-decoration: none;
+            }
+
+.navbar-collapse {
+    flex-grow: 0;
+}
+
+.sociales{
+    padding-top: 20px;
+}
+
+
+@media screen and (max-width: 600px) {
+    .gone{
+        display:none;
+    }
+}
